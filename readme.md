@@ -2,6 +2,7 @@
 ## Find a friend ☺︎
 ## API
 
+
 ### Regras de negócio
 
 – [x] Para listar os pets, **obrigatoriamente** precisamos informar a cidade ✓
@@ -12,9 +13,10 @@
 
 – [x] O usuário que quer adotar, entrará em contato com a ORG via WhatsApp ✓
 
-– [X] Todos os filtros, além da cidade, são opcionais ✓
+– [x] Todos os filtros, além da cidade, são opcionais ✓
 
 – [x] Para uma ORG acessar a aplicação como admin, ela precisa estar ***logada*** ✓
+
 
 ### Requisitos funcionais
 
