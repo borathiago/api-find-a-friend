@@ -14,7 +14,7 @@
 
 – [X] Todos os filtros, além da cidade, são opcionais ✓
 
-– [ ] Para uma ORG acessar a aplicação como admin, ela precisa estar ***logada*** ✓
+– [x] Para uma ORG acessar a aplicação como admin, ela precisa estar ***logada*** ✓
 
 ### Requisitos funcionais
 
@@ -30,6 +30,6 @@
 
 – [x] Deve ser possível se cadastrar como uma ORG ✓
 
-– [ ] Deve ser possível realizar login como uma ORG ✓
+– [x] Deve ser possível realizar login como uma ORG ✓
 
 – [x] A senha de uma ORG ou de um usuário precisa estar criptografada ✓
